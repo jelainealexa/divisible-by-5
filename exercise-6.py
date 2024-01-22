@@ -3,6 +3,10 @@
 # Given
 numbers = [3, 5, 10, 14, 26, 40]
 
+# Print
+print("Given list is", numbers)
+print("Divisible by 5")
+
 # Iterate the given list of numbers
 for number in numbers:
     # Check if the number is divisible by 5
