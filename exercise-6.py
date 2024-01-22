@@ -1,9 +1,10 @@
 # Display numbers divisible by 5 from a list
 
 # Iterate the given list of numbers
-
-# Check if the number is divisible by 5
-
-# Print the number
+for i in numbers:
+    # Check if the number is divisible by 5
+    if number % 5 == 0:
+        # Print the number
+        print(number)
 
 # Given
